@@ -18,5 +18,8 @@ __诺艾尔真的太可爱了！！__
 
 如果此程序违反了DMCA，请发起issue提醒我删除此仓库
 
+# 开发
+拉取项目后需要在项目根目录新建一个`AICAssemblies`文件夹，并将`/游戏根目录/AliceInCradle_Data/Managed`中的所有dll放入(如果你会看csproj也可以只放入一部分)
+
 # IMPORTANT!
 如果你是此游戏的开发/运营，请发送issue告诉我分享此代码是否违反许可和我应该选择什么开源许可
